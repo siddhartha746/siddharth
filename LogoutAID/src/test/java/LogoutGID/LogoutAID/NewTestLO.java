@@ -16,7 +16,7 @@ public class NewTestLO {
 	@Test
 	  public void MainHMR_TC_00007() throws InterruptedException {
 		  
-		  
+		  //This is updated by siddharth
 		    //userid
 		    bo.findElement(By.xpath("/html[1]/body[1]/center[1]/table[1]/tbody[1]/tr[2]/td[2]/form[1]/input[1]")).sendKeys("kishore");
 		    Thread.sleep(1000);
